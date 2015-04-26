@@ -1,0 +1,63 @@
+LUCENE:
+
+Precision for size = 1 is: 0.09
+Precision for size = 2 is: 0.255
+Precision for size = 3 is: 0.356666666667
+Precision for size = 4 is: 0.3925
+Precision for size = 5 is: 0.392
+Precision for size = 6 is: 0.41
+Precision for size = 7 is: 0.401428571429
+Precision for size = 8 is: 0.395
+Precision for size = 9 is: 0.387777777778
+Precision for size = 10 is: 0.383
+Precision for size = 11 is: 0.359090909091
+
+Recall for size = 1 is: 0.0463812066891
+Recall for size = 2 is: 0.0829706036092
+Recall for size = 3 is: 0.115754449307
+Recall for size = 4 is: 0.141700657885
+Recall for size = 5 is: 0.160728639471
+Recall for size = 6 is: 0.179175912
+Recall for size = 7 is: 0.195771888845
+Recall for size = 8 is: 0.209611816594
+Recall for size = 9 is: 0.21890394023
+Recall for size = 10 is: 0.23972524267
+Recall for size = 11 is: 0.23972524267
+
+F1 for size = 1 is: 0.0612153052955
+F1 for size = 2 is: 0.12520322001
+F1 for size = 3 is: 0.174783692728
+F1 for size = 4 is: 0.208227030045
+F1 for size = 5 is: 0.227980322254
+F1 for size = 6 is: 0.249372462193
+F1 for size = 7 is: 0.263189447741
+F1 for size = 8 is: 0.273883722687
+F1 for size = 9 is: 0.279837288547
+F1 for size = 10 is: 0.294880507971
+F1 for size = 11 is: 0.287511133657
+
+Precision@10 is: 0.383
+
+MAP is: 0.347496720451
+
+DCG for p = 1 is: 0.363636363636
+DCG for p = 2 is: 0.657828282828
+DCG for p = 3 is: 1.20070605373
+DCG for p = 4 is: 2.35158989211
+DCG for p = 5 is: 4.65695947284
+DCG for p = 6 is: 9.30252229074
+DCG for p = 7 is: 18.5903614377
+DCG for p = 8 is: 37.1766340966
+DCG for p = 9 is: 74.3297131438
+DCG for p = 10 is: 148.662638634
+
+NDCG for p = 1 is: 0.516129032258
+NDCG for p = 2 is: 0.547844374343
+NDCG for p = 3 is: 0.565416178079
+NDCG for p = 4 is: 0.568017791209
+NDCG for p = 5 is: 0.565904258148
+NDCG for p = 6 is: 0.566111908563
+NDCG for p = 7 is: 0.565951874333
+NDCG for p = 8 is: 0.565950099639
+NDCG for p = 9 is: 0.565795536315
+NDCG for p = 10 is: 0.565813144514
